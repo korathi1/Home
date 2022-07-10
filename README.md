@@ -36,8 +36,8 @@ Built-in feature from Next.js:
 #### 1. Clone repo
 
 ```
-git clone https://github.com/issaafalkattan/react-landing-page-template-2021.git
-cd react-landing-page-template-2021
+git clone https://github.com/korathi1/Home.git
+cd Home
 yarn
 ```
 
@@ -57,7 +57,7 @@ Open <http://localhost:3000> with your favorite browser to see your project.
 
 #### 3. Deploy to production
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fissaafalkattan%2Freact-landing-page-template-2021)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%korathi1%2Freact-Home)
 
 ##### Deploy manually
 
@@ -92,4 +92,4 @@ Licensed under the MIT License, Copyright © 2021
 
 ---
 
-### Looking for v1? <a href="https://github.com/issaafalkattan/React-Landing-Page-Template">V1</a>
+### Looking for v1? <a href="https://github.com/korathi1/Home">V1</a>
