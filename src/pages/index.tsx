@@ -13,7 +13,7 @@ import Product from '../components/Product';
 <Head>
   <title>Korathi</title>
   <meta name="engagement platform" content="AI Based Engagegment platform" />
-  <link rel="icon" href="/favicon.ico" />
+  <link rel="icon" href="/assets/images/logo.png" />
 </Head>
 
 const App = () => {
