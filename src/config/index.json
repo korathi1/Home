@@ -1,0 +1,149 @@
+{
+  "company": {
+    "name": "Korathi",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "DemoC",
+      "href": "product"
+    },
+    {
+      "name": "MarketingZ",
+      "href": "Marketing"
+    },
+
+    {
+      "name": "ConversionX",
+      "href": "conversion"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Engage with your customers",
+    "subtitle": "Like never before.",
+    "description": "Engage with customers wherever they are. Increase your customer base and nurture strong customer relationships across the entire buying experience. Convert more visitors into purchasers with triggers, automations, and deep segmentation.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:ashish@korathi.com?subject=I am interested to know more about Korathi Products!"
+    }
+  },
+  "product": {
+    "title": "Automate your all channel marketing",
+    "items": [
+      {
+        "title": "Automated campaigns powered by AI",
+        "description": "Our AI Model create segmented and personalized campaigns at scale using our robust signals of filters and tags. Target specific subsets of subscribers based on location, engagement, behavior, and purchase history—and drive traffic and sales through strategic offers. Plus, build out automations that trigger in response to subscriber actions—including welcome series, abandoned carts, shipping notifications, and cross-sell promotions.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Demo Connect",
+        "description": "Our demo-connect product allows to connect visitor with in 5 min. Korathi sdk seamlessly connect with your homepage. Customers can also connect with AI Bot that is built on Natural language processing engine ",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Lead Management ",
+    "subtitle": "65M+ Business contact data",
+    "description": "Empowering sales with Powerful lead generation. Korathi's AI model generate leads with more than 200+ signals to find right customers for your business.Win new clients, without the legwork of generating qualified leads, sales appointments or attendees and go straight to closing deals. Skip the legwork of generating qualified leads, sales appointments or attendees, and go straight to converting them to customers. ",
+    "items": [
+      {
+        "name": "65M Business Contacts",
+        "description": "Korathi host 65M business data that is refreshed every 24 hours. Korathi not only verify and update your leads but also provide 250K complimentry leads for your business to grow.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "200+ Signals",
+        "description": "Business data could be filtered through 200+ signals to fit your company needs. Our AI model split the data into four quadrant based on % confidance score to close the deal.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Business Contact data",
+        "description": "Each business data comes with several decision makers in the company to directly reach them.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Auto Campigns",
+        "description": "Korathi takes care of making initial contact with the business through automated campaign. We also try hard to get your churned customer back with cour unified communication.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "Lead Verification",
+          "Email Camapign",
+          "5K verified leads",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$29",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Email/SMS Camapign",
+          "15K verified leads",
+          "Premium support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$49",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "Email/SMS Camapign + Demo Connect",
+          "250K qualified Leads",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Facebook",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Instragram",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "LinkedIn",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Twitter",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com",
+      "twitter": "https://twitter.com",
+      "linkedin": "https://www.linkedin.com"
+    }
+  }
+}
