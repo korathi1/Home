@@ -10,12 +10,6 @@ import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import Product from '../components/Product';
 
-<Head>
-  <title>Korathi</title>
-  <meta name="engagement platform" content="AI Based Engagegment platform" />
-  <link rel="icon" href="/assets/images/logo.png" />
-</Head>
-
 const App = () => {
   return (
     <div className={`bg-background grid gap-y-16 overflow-hidden`}>
